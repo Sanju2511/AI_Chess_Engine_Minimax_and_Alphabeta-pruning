@@ -1,0 +1,2 @@
+# AI_Chess_Engine_Minimax_and_Alphabeta-pruning
+Designed &amp; implemented a chess engine using the Minimax algorithm with Alpha-Beta pruning, enabling efficient decision-making and optimal move prediction up to 6 turns ahead, validated in 1,000+ simulated matches.Developed an interactive UI with pygame, supporting 4 color schemes &amp; dynamic move validation; avg board evaluation time improved by 25%.
